@@ -13,6 +13,16 @@ let a = 14;
 let b = 18;
  
 // Valores TRUE
-
-
+console.log("Valores TRUE:");
+console.log(a < b);
+console.log(a!= b);
+console.log(a <= b);
+console.log(b >= a);
+console.log(b == a);
 // Valores FALSE
+onsole.log("Valores TRUE:");
+console.log(a > b);
+console.log(a== b);
+console.log(a >= b);
+console.log(b <= a);
+console.log(b == a);
